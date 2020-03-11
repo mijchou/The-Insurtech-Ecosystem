@@ -18,16 +18,18 @@
 按需保險提供__快速__、__小型__、__客製化__的保險體驗。
 
 公司：
-- Wrisk
-- Slice Insurance
-- Yrisk
-- Trov
-- GetSafe
+- Wrisk: Mobility, retail, banking
+- Slice Insurance: Homeshare, rideshare, cloud services, end-end solutions
+- Y-Risk: Tailored risk management services for businesses.
+- Trov: Single item insurance, mobility, rentals.
+- GetSafe: Formerly a 
 - Metnomile
 - Cuvva
 - Sure.
 - Verifly
 - Yolo
+
+共通點：迅速好用的（手機）介面、快速出險、
 
 2. Property and Casualty Insurance（產物保險）
 
