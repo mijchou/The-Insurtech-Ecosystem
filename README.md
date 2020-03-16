@@ -14,6 +14,9 @@
 ---
 
 1. On-demand Insurance（按需保險）
+傳統保險：申請手續冗長、保險期限缺乏彈性、複雜的理賠過程
+按需保險：
+
 比起傳統保險需要__冗長的申請手續__、__缺乏彈性的保險期限__、__龐大的保險經費__、__複雜的理賠過程__，
 按需保險提供__快速__、__小型__、__客製化__的保險體驗。
 
@@ -22,8 +25,8 @@
 - Slice Insurance: Homeshare, rideshare, cloud services, end-end solutions
 - Y-Risk: Tailored risk management services for businesses.
 - Trov: Single item insurance, mobility, rentals.
-- GetSafe: Formerly a 
-- Metnomile
+- GetSafe: 
+- Metnomile:
 - Cuvva
 - Sure.
 - Verifly
