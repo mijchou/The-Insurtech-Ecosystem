@@ -65,7 +65,43 @@
 - gabi
 - simplesurance
 
-
 5. Business Insurance（商業保險）
+
+公司：
+- Nimbla
+- Coalition
+- Drover
+- Embroker
+- CoverWallet
+- Next Insurance
+
 6. Suppliers（保險供應）
+
+公司：
+- WeSavvy
+- Analytics
+- Digital Fineprint
+- Insly
+- Shift Technology
+- Instanda
+- Atidot
+- Etherisc
+- Adapt Ready
+- Kasko
+- iXledger
+- Optimity
+- Premonition
+- FitSense
+
 7. Life and Health（人生與健康保險）
+
+公司：
+- Ladder
+- Clover
+- Fabric
+- Oscar
+- Getsurance
+- tomorrow
+- bestow
+- AllLife
+- Haven Life
